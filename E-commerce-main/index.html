@@ -1,0 +1,428 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+   <meta charset="utf-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+   <meta name="theme-color" content="linear-gradient(to bottom, #61daff, #656bff)">
+   <meta name="description" content="We will simple add to cart using javascript localstorage">
+   <meta name="keywords"
+      content="add to cart, add to cart javascript, localstorage add to cart, ecommerce shopping javascript, shooping cart demo">
+   <meta name="author" content="Rajamanickam">
+   <link rel="stylesheet" href="style.css">
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.1/css/all.min.css"
+      integrity="sha512-5Hs3dF2AEPkpNAR7UiOHba+lRSJNeM2ECkwxUIxC1Q/FLycGTbNapWXB4tP889k5T5Ju8fs4b1P5z/iB4nMfSQ=="
+      crossorigin="anonymous" referrerpolicy="no-referrer" />
+   <link rel="icon" href="https://rajamanickam.vercel.app/favicon-rajamanickam.png">
+   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css">
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.6.0/css/all.min.css">
+   <title>Crown</title>
+</head>
+
+<body id="home-section">
+   <main>
+      <nav id="navbar" class="navbar navbar-expand-lg navbar-dark fixed-top bg-dark">
+         <a class="navbar-brand" href="#"><strong>Hamza</strong></a>
+          <a id="ancher" href="login.html"> login</a>
+         <a id="ancher" onclick="logout()"> logout</a>
+         <div class="user">
+
+         </div>
+         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+         </button>
+
+         <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+            </ul>
+            <a class="scroll-link" data-target="#home-section" id="ancher" href="#"> home</a>
+            <a class="scroll-link" data-target="#footer-section" id="ancher" href="#"> about</a>
+            <a  href="#"> home</a>
+            <a href="login.html"> login</a>
+            <a onclick="logout()"> logout</a>
+            <form class="form-inline my-2 my-lg-0">
+               <input class="form-control mr-sm-2" type="search" id="search_field" placeholder="Search"
+                  aria-label="Search">
+            </form>
+            <button type="button" id="cart-icon" class="btn btn-success my-2 my-sm-0" data-toggle="modal"
+               data-target="#staticBackdrop">
+               <i class="fas fa-shopping-cart total-count"></i>
+            </button>
+         </div>
+      </nav>
+
+
+
+
+
+
+      <section id="hero">
+         <div class="text">
+            <h2>Hamza</h2>
+            <h1>THE MEMBERS-ONLY CLUB THAT GIVES YOU MORE</h1>
+            <h3>Buy today and get £20 off</h3>
+            <button>Buy Now</button>
+         </div>
+         <img src="men.png" alt="">
+         <img src="women.png" alt="">
+      </section>
+
+
+
+
+
+
+
+
+
+
+
+      <h1 id="our_gallery">our gallery review</h1>
+      <div class="slider" style="
+    --width: 150px;
+    --height: 150px;
+    --quantity: 10;
+">
+         <div class="list">
+            <div class="item" style="--position: 1"><img
+                  src="https://i.pinimg.com/736x/fe/52/65/fe5265bfa551e675b2f07df030fc20fd.jpg" alt=""></div>
+            <div class="item" style="--position: 2"><img
+                  src="https://i.pinimg.com/736x/e6/57/0d/e6570dc814c349202861cdda17e2e254.jpg" alt=""></div>
+            <div class="item" style="--position: 3"><img
+                  src="https://i.pinimg.com/736x/e3/24/8a/e3248a0b895ae730c5ac955ca05ab903.jpg" alt=""></div>
+            <div class="item" style="--position: 4"><img
+                  src="https://i.pinimg.com/736x/69/24/84/692484dfb203f770e43c5e38f0cc2f3c.jpg" alt=""></div>
+            <div class="item" style="--position: 5"><img
+                  src="https://i.pinimg.com/736x/24/f0/fc/24f0fc300aca61d3ee20344908a80b71.jpg" alt=""></div>
+            <div class="item" style="--position: 6"><img
+                  src="https://i.pinimg.com/736x/c9/f5/af/c9f5af0bbe5a91f530f29531ffe3ee3b.jpg" alt=""></div>
+            <div class="item" style="--position: 7"><img
+                  src="https://i.pinimg.com/736x/60/d3/7f/60d37fb2621c32bb4fccf9462a3e3d7d.jpg" alt=""></div>
+            <div class="item" style="--position: 8"><img
+                  src="https://i.pinimg.com/736x/25/0c/6a/250c6a8ce74fda5a14dc9ea1b259e867.jpg" alt=""></div>
+            <div class="item" style="--position: 9"><img
+                  src="https://i.pinimg.com/736x/5a/0f/3e/5a0f3e380ed5917507fbfc915511c947.jpg" alt=""></div>
+            <div class="item" style="--position: 10"><img
+                  src="https://i.pinimg.com/736x/08/9a/ce/089ace0d6b366f2da75a1c7d3c98a5a4.jpg" alt=""></div>
+         </div>
+      </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      <section id="shope-section">
+         <div class="featured-area pt-100 pb-70">
+            <div class="container">
+               <h1> our All products</h1>
+               <div class="tab featured-tab-area">
+                  <div id="All" class="row justify-content-center">
+
+                  </div>
+               </div>
+            </div>
+         </div>
+
+
+
+         <div class="banner-popular">
+            <div class="text">
+               <h1>see our All products and his quality </h1>
+               <h1>& visit our popular product & enjoy</h1>
+               <button>Shop Now</button>
+            </div>
+         </div>
+
+
+         <div  class="tabs_item">
+            <div id="women" class="row justify-content-center">
+             
+             
+            </div>
+         </div>
+
+         </div>
+         </div>
+         </div>
+         </div>
+         <p id="not_found"></p>
+         </div>
+         </div>
+         </div>
+         </div>
+      </section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+      <div id="formList">
+         <h1>reviews</h1>
+         <div id="list">
+
+            <div class="item">
+               <img src="Brook.png" class="avatar">
+               <div class="content">
+                  <table width="100%" cellspacing="0">
+                     <tr>
+                        <td>Tên</td>
+                        <td>Brook</td>
+                     </tr>
+                     <tr>
+                        <td>Nghề nghiệp</td>
+                        <td>Hải tặc</td>
+                     </tr>
+                     <tr>
+                        <td>Sức mạnh</td>
+                        <td>Bất tử</td>
+                     </tr>
+                     <tr>
+                        <td colspan="2" class="nameGroup">Thành viên băng Mũ Rơm</td>
+                     </tr>
+                  </table>
+               </div>
+            </div>
+            <div class="item">
+               <img src=" https://i.pinimg.com/236x/14/d0/ed/14d0ed7eee037b01253fbc38dcfd7908.jpg" , class="avatar">
+               <div class="content">
+                  <table width="100%" cellspacing="0">
+                     <tr>
+                        <td>Tên</td>
+                        <td>Sanji</td>
+                     </tr>
+                     <tr>
+                        <td>Nghề nghiệp</td>
+                        <td>Đầu bếp</td>
+                     </tr>
+                     <tr>
+                        <td>Sức mạnh</td>
+                        <td>Chân lửa</td>
+                     </tr>
+                     <tr>
+                        <td colspan="2" class="nameGroup">Thành viên băng Mũ Rơm</td>
+                     </tr>
+                  </table>
+               </div>
+            </div>
+            <div class="item">
+               <img src="Usopp.png" class="avatar">
+               <div class="content">
+                  <table width="100%" cellspacing="0">
+                     <tr>
+                        <td>Tên</td>
+                        <td>Usopp</td>
+                     </tr>
+                     <tr>
+                        <td>Nghề nghiệp</td>
+                        <td>Xạ thủ</td>
+                     </tr>
+                     <tr>
+                        <td>Sức mạnh</td>
+                        <td>Chém gió</td>
+                     </tr>
+                     <tr>
+                        <td colspan="2" class="nameGroup">Thành viên băng Mũ Rơm</td>
+                     </tr>
+                  </table>
+               </div>
+            </div>
+            <div class="item">
+               <img src="Nami.png" class="avatar">
+               <div class="content">
+                  <table width="100%" cellspacing="0">
+                     <tr>
+                        <td>Tên</td>
+                        <td>Nami</td>
+                     </tr>
+                     <tr>
+                        <td>Nghề nghiệp</td>
+                        <td>Hoa tiêu</td>
+                     </tr>
+                     <tr>
+                        <td>Sức mạnh</td>
+                        <td>Ăn hiếp đồng đội</td>
+                     </tr>
+                     <tr>
+                        <td colspan="2" class="nameGroup">Thành viên băng Mũ Rơm</td>
+                     </tr>
+                  </table>
+               </div>
+            </div>
+            <div class="item">
+               <img src="Robin.png" class="avatar">
+               <div class="content">
+                  <table width="100%" cellspacing="0">
+                     <tr>
+                        <td>Tên</td>
+                        <td>Robin</td>
+                     </tr>
+                     <tr>
+                        <td>Nghề nghiệp</td>
+                        <td>Hải tặc</td>
+                     </tr>
+                     <tr>
+                        <td>Sức mạnh</td>
+                        <td>Nghìn tay</td>
+                     </tr>
+                     <tr>
+                        <td colspan="2" class="nameGroup">Thành viên băng Mũ Rơm</td>
+                     </tr>
+                  </table>
+               </div>
+            </div>
+         </div>
+      </div>
+
+
+      <div class="direction">
+         <button id="prev">
+            < </button>
+               <button id="next"> > </button>
+      </div>
+
+
+
+
+
+
+
+
+
+
+      <!-- Modal -->
+      <div  class="modal fade" id="staticBackdrop" data-backdrop="static" data-keyboard="false" tabindex="-1"
+         aria-labelledby="staticBackdropLabel" aria-hidden="true">
+         <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+               <div class="modal-header">
+                  <h5 class="modal-title" id="staticBackdropLabel">Your Cart</h5>
+                  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                     <span aria-hidden="true">&times;</span>
+                  </button>
+               </div>
+               <div class="modal-body">
+                  <table class="show-cart table">
+
+                  </table>
+                  <div class="grand-total">Total price: Rs :<span class="total-cart"></span></div>
+               </div>
+               <div class="modal-footer">
+                  <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                  <!-- <button type="button" class="btn btn-danger clear-all">Clear All</button> -->
+               </div>
+            </div>
+         </div>
+      </div>
+
+      <footer id="footer-section" class="footer" id="about">
+
+         <div class="footer-container">
+
+            <div class="footer-section">
+               <h2 class="footer-title">Hamza shope</h2>
+               <div class="contact-info">
+                  <p><i class="fas fa-map-marker-alt"></i>Masoom Shah Colony Kalapull Karachi</p>
+                  <p><i class="fas fa-phone"></i> 1114512100465120</p>
+                  <p><i class="fas fa-envelope"></i>hbahi024@gmail.com</p>
+               </div>
+            </div>
+
+            <div class="footer-section">
+               <h2 class="footer-title">Products</h2>
+               <ul class="footer-links">
+                  <li><a href="#">Luxury watch for <br> women & men</a></li>
+                  <li><a href="#">Men's Shirts</a></li>
+                  <li><a href="#">Men's bottum</a></li>
+                  <li><a href="#">Women's Shirts</a></li>
+                  <li><a href="#">Women's bottum</a></li>
+               </ul>
+            </div>
+
+            <div class="footer-section">
+               <h2 class="footer-title">Further Info</h2>
+               <ul class="footer-links">
+                  <li><a href="#">Home</a></li>
+                  <li><a href="#">About Us</a></li>
+                  <li><a href="#">Shop Locations</a></li>
+                  <li><a href="#">FAQs</a></li>
+               </ul>
+            </div>
+
+
+            <div class="footer-section">
+               <div class="newsletter">
+                  <input type="email" placeholder="Email address" class="email-input">
+                  <button class="subscribe-btn">Subscribe</button>
+               </div>
+               <div class="social-icons">
+                  <a href="#"><i class="fab fa-facebook-f"></i></a>
+                  <a href="#"><i class="fab fa-instagram"></i></a>
+                  <a href="#"><i class="fab fa-linkedin-in"></i></a>
+               </div>
+            </div>
+         </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         <div class="footer-bottom">
+            <p>Copyright © 2021 Company hamzajanzaib | Designed by hamzajanzaib</a></p>
+         </div>
+      </footer>
+   </main>
+   <script src="https://code.jquery.com/jquery-3.6.3.js"></script>
+   <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.min.js"></script>
+   <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"></script>
+   <script src="app.js"></script>
+
+
+</body>
+
+</html>
