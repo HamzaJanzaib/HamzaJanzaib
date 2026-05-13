@@ -65,7 +65,6 @@ I’m a passionate **Full Stack Developer** from **Karachi, Pakistan** with **1+
 
 # 💼 Professional Experience
 
-## 🏢 MERN Stack Developer — Applotech  
 ### 📅 2025 – Present
 - Built and maintained **scalable web applications** and production-grade software solutions
 - Engineered **multi-tenant SaaS platforms**:
