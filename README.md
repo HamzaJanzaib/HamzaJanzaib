@@ -1,23 +1,159 @@
-## 👋 Hi, I'm Hamza Janzaib  
-#### 🌱 Student at [SMIT](https://www.saylaniwelfare.com/) | 👨‍💻 Aspiring Full Stack / MERN Developer  
+# 👋 Hi, I'm Hamza Janzaib  
+### 🚀 Full Stack / MERN Developer | Mobile App Developer | SaaS Builder  
+#### 🌱 Student at [SMIT](https://www.saylaniwelfare.com/) | Building scalable Web, Mobile & AI-powered applications  
+
+<p align="center">
+  <a href="https://github.com/HamzaJanzaib">
+    <img src="https://img.shields.io/badge/GitHub-HamzaJanzaib-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/hamza-janzaib-6a6870318/">
+    <img src="https://img.shields.io/badge/LinkedIn-Hamza%20Janzaib-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:m.hamzajanzaib@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
 ---
 
-### 💻 Technologies & Tools
-- **Front-end**: HTML5, CSS3, JavaScript, TypeScript, React.js, Next.js, React Native  
-- **Back-end**: Node.js, Express.js  
-- **Databases**: MongoDB, MySQL, PostgreSQL  
-- **ORMs**: Prisma, Drizzle ORM  
-- **Other**: REST APIs, Tailwind CSS, Git, GitHub, Responsive Design  
+# 💼 About Me
+I’m a passionate **Full Stack Developer** from **Karachi, Pakistan** with **1+ year of professional experience** building scalable **MERN Stack**, **SaaS**, **Mobile Apps**, and **AI-integrated platforms**.
+
+### 🔥 What I Do:
+- 🌐 Build scalable **Web Applications** (Next.js, React, MERN)
+- 📱 Develop **Cross-platform Mobile Apps** (React Native / Expo)
+- 🧠 Create **AI-powered platforms** (Google Generative AI, LangChain)
+- 🏢 Engineer **Multi-tenant SaaS Systems**
+- ⚙️ Design secure **Backend Architectures & APIs**
+- ☁️ Deploy production-grade apps with **Docker, AWS & DevOps**
 
 ---
 
-### 👔 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hamza%20Janzaib-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hamza-janzaib-6a6870318/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+# 🛠️ Tech Stack & Technologies
+
+## 🎨 Frontend Development
+- **HTML5, CSS3, JavaScript (ES6+), TypeScript**
+- **React.js, Next.js, React Native (Expo)**
+- **Tailwind CSS, NativeWind, Radix UI**
+- **Framer Motion / Motion**
+- **Responsive UI/UX & Performance Optimization**
+
+## ⚙️ Backend Development
+- **Node.js, Express.js, NestJS**
+- **REST APIs, GraphQL**
+- **JWT Authentication, OTP Systems, Role-Based Access**
+- **Swagger Documentation**
+- **Clerk, Arcjet Security**
+
+## 🗄️ Databases & ORMs
+- **MongoDB, PostgreSQL, MySQL, SQLite, Redis**
+- **Prisma ORM, Drizzle ORM, Mongoose**
+
+## ☁️ DevOps & Cloud
+- **Docker, Nginx, Kubernetes**
+- **AWS (EC2, S3, IAM)**
+- **CI/CD Pipelines**
+- **Kafka**
+
+## 🧰 Tools & Productivity
+- **Git, GitHub**
+- **Figma, Jira, Notion**
+- **Jest**
+- **LangChain, LangGraph**
 
 ---
 
-### ⚡ About Me
-I’m a passionate **MERN Stack developer** and student at **Saylani Mass IT Training** (SMIT), learning and building projects that solve real-world problems. Currently exploring advanced concepts in **full-stack** development and focusing on clean, maintainable code.
+# 💼 Professional Experience
+
+## 🏢 MERN Stack Developer — Applotech  
+### 📅 2025 – Present
+- Built and maintained **scalable web applications** and production-grade software solutions
+- Engineered **multi-tenant SaaS platforms**:
+  - E-commerce Management Systems  
+  - Client Management Systems  
+  - Learning Management Systems  
+- Developed **real-time backend systems** using Node.js, Express.js & databases
+- Designed scalable APIs & optimized database architectures
+- Worked on both **Frontend + Backend**
+- Delivered modern client websites for:
+  - Pearl Linens  
+  - Dresswell Tailors  
+  - Doctor Duct Canada  
+  - Shiwani Textile  
+  - Vital General Maintenance  
 
 ---
+
+# 🚀 Featured Projects
+
+## 📚 Books Stores Multi-Tenant Ecommerce (Backend Developer)
+**Scalable ecommerce backend for multiple bookstores**
+- Multi-tenant architecture
+- JWT Auth + OTP + Role Management
+- Swagger API Docs
+- Docker Deployment
+- Background Jobs + Logging + Security
+
+**Tech:** Node.js, Express.js, MongoDB, Docker, JWT, Swagger, Zod, Winston
+
+---
+
+## 🏠 Real Estate Management App (React Native Developer)
+**Modern property listing mobile app**
+- Zustand State Management
+- Clerk Auth
+- Supabase Integration
+- NativeWind UI
+
+**Tech:** React Native, Expo, TypeScript, Supabase, Clerk
+
+---
+
+## 🤖 AI Mock Interview Platform (Full Stack Developer)
+**AI-driven interview prep platform**
+- Google Generative AI
+- Video + Chat Integration
+- Clerk + Arcjet Security
+- Prisma + PostgreSQL
+
+**Tech:** Next.js, TypeScript, Prisma, PostgreSQL, Google AI
+
+---
+
+## 🌐 Modern SaaS Landing Page (Frontend Developer)
+**SEO-optimized startup landing page**
+- Next.js Performance
+- Motion Animations
+- Theme Switching
+- Accessibility-first UI
+
+**Tech:** Next.js, Tailwind CSS, Motion
+
+---
+
+# 🎓 Education
+
+## 📘 Intermediate (In Progress)  
+**Ziauddin Examination Board, Karachi**  
+📅 2026 – Present  
+
+## 📗 Matriculation (Completed)  
+**Green Flag Public School, Karachi**  
+📅 Completed in 2024  
+
+---
+
+# 🌟 Current Goals
+- 🚀 Master advanced **System Design & Scalable Architecture**
+- 📱 Build innovative **SaaS + AI products**
+- 🌍 Grow as a **Global Full Stack Engineer**
+- 🛒 Scale **BooksSpine** into a premium digital bookstore brand
+
+---
+
+# 📬 Connect With Me
+### 📍 Karachi, Pakistan  
+### 📧 m.hamzajanzaib@gmail.com  
+### 📱 +92 3711047170  
+
+> ⚡ “Building digital experiences that are scalable, modern, and impactful.”
