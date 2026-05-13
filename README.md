@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Hamza Janzaib  
-### 🚀 Full Stack / MERN Developer | Mobile App Developer | SaaS Builder  
+### 🚀 Full Stack web & Mobile app Developer 
 #### 🌱 Student at [SMIT](https://www.saylaniwelfare.com/) | Building scalable Web, Mobile & AI-powered applications  
 
 <p align="center">
