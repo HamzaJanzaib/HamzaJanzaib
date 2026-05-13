@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hamza Janzaib  
 ### 🚀 Full Stack Web & Mobile App Developer  
-#### 🌱 Student at [SMIT](https://www.saylaniwelfare.com/) | Building scalable Web, Mobile & AI-powered applications  
+#### 🌱 SMIT Student | Building scalable Web, Mobile, SaaS & AI-powered applications  
 
 <p align="center">
   <a href="https://github.com/HamzaJanzaib">
@@ -17,78 +17,72 @@
 ---
 
 # 💼 About Me
-I’m a passionate **Full Stack Developer** from **Karachi, Pakistan** with **1+ year of professional experience** building scalable **MERN Stack**, **SaaS**, **Mobile Apps**, and **AI-integrated platforms**.
+Passionate **Full Stack Developer** from **Karachi, Pakistan** with **1+ year of experience** building scalable **Web Apps, SaaS Platforms, Mobile Applications, and AI-integrated solutions**.
 
 ### 🔥 What I Do:
 - 🌐 Build scalable **Web Applications** (Next.js, React, MERN)
 - 📱 Develop **Cross-platform Mobile Apps** (React Native / Expo)
-- 🧠 Create **AI-powered platforms** (Google Generative AI, LangChain)
+- 🧠 Create **AI-powered Platforms** (Google AI, LangChain, LangGraph)
 - 🏢 Engineer **Multi-tenant SaaS Systems**
-- ⚙️ Design secure **Backend Architectures & APIs**
-- ☁️ Deploy production-grade apps with **Docker, AWS, Kubernetes & DevOps**
-- 📊 Monitor infrastructure with **Grafana, Prometheus & Logging Tools**
+- ⚙️ Design secure **Backend Systems, APIs & Microservices**
+- ☁️ Deploy production-grade apps with **Docker, AWS, Kubernetes**
+- 📊 Monitor infrastructure using **Grafana, Prometheus & Logging Tools**
 
 ---
 
-# 🛠️ Tech Stack & Technologies
+# 🛠️ Tech Stack
 
-## 🎨 Frontend Development
+## 🎨 Frontend
 - **HTML5, CSS3, JavaScript (ES6+), TypeScript**
 - **React.js, Next.js, React Native (Expo)**
 - **Tailwind CSS, NativeWind, Radix UI**
-- **Framer Motion / Motion**
+- **Framer Motion**
 - **Responsive UI/UX & Performance Optimization**
 
-## ⚙️ Backend Development
+## ⚙️ Backend
 - **Node.js, Express.js, NestJS**
 - **REST APIs, GraphQL**
-- **JWT Authentication, OTP Systems, Role-Based Access**
+- **JWT Auth, OTP Systems, RBAC**
 - **Swagger Documentation**
 - **Clerk, Arcjet Security**
-- **Microservices & Scalable SaaS Architecture**
+- **Microservices & SaaS Architecture**
 
-## 🗄️ Databases & ORMs
+## 🗄️ Database
 - **MongoDB, PostgreSQL, MySQL, SQLite, Redis**
-- **Prisma ORM, Drizzle ORM, Mongoose**
+- **Prisma, Drizzle ORM, Mongoose**
 
-## ☁️ DevOps, Cloud & Monitoring
+## ☁️ DevOps & Cloud
 - **Docker, Nginx, Kubernetes (K8s)**
 - **AWS (EC2, S3, IAM)**
 - **CI/CD Pipelines**
 - **Kafka**
-- **Grafana**
-- **Prometheus**
-- **System Monitoring & Performance Tracking**
-- **Log Management & Infrastructure Optimization**
+- **Grafana & Prometheus**
+- **System Monitoring, Logging & Performance Tracking**
 
-## 🧰 Tools & Productivity
+## 🧰 Tools
 - **Git, GitHub**
 - **Figma, Jira, Notion**
+- **Postman, Swagger**
 - **Jest**
-- **LangChain, LangGraph**
-- **Postman**
-- **Swagger**
 - **Linux CLI**
+- **LangChain, LangGraph**
 
 ---
 
 # 🎓 Education
-
 ## 📘 Intermediate (In Progress)  
 **Ziauddin Examination Board, Karachi**  
-📅 2026 – Present  
 
 ## 📗 Matriculation (Completed)  
 **Green Flag Public School, Karachi**  
-📅 Completed in 2024  
 
 ---
 
 # 🌟 Current Goals
-- 🚀 Master advanced **System Design, DevOps & Scalable Architecture**
-- 📱 Build innovative **SaaS + AI products**
+- 🚀 Master **System Design, DevOps & Scalable Architecture**
+- 📱 Build impactful **SaaS + AI Products**
 - 🌍 Grow as a **Global Full Stack Engineer**
-- 📊 Deepen expertise in **Cloud Infrastructure, Kubernetes & Monitoring**
+- 📊 Advance in **Cloud Infrastructure, Kubernetes & Monitoring**
 - 🛒 Scale **BooksSpine** into a premium digital bookstore brand
 
 ---
@@ -96,6 +90,5 @@ I’m a passionate **Full Stack Developer** from **Karachi, Pakistan** with **1+
 # 📬 Connect With Me
 ### 📍 Karachi, Pakistan  
 ### 📧 m.hamzajanzaib@gmail.com  
-### 📱 +92 3711047170  
 
 > ⚡ “Building scalable digital products with clean code, modern architecture, and real-world impact.”
