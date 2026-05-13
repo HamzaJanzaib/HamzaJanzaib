@@ -61,28 +61,6 @@ I’m a passionate **Full Stack Developer** from **Karachi, Pakistan** with **1+
 - **Jest**
 - **LangChain, LangGraph**
 
----
-
-# 💼 Professional Experience
-
-### 📅 2025 – Present
-- Built and maintained **scalable web applications** and production-grade software solutions
-- Engineered **multi-tenant SaaS platforms**:
-  - E-commerce Management Systems  
-  - Client Management Systems  
-  - Learning Management Systems  
-- Developed **real-time backend systems** using Node.js, Express.js & databases
-- Designed scalable APIs & optimized database architectures
-- Worked on both **Frontend + Backend**
-- Delivered modern client websites for:
-  - Pearl Linens  
-  - Dresswell Tailors  
-  - Doctor Duct Canada  
-  - Shiwani Textile  
-  - Vital General Maintenance  
-
----
-
 # 🎓 Education
 
 ## 📘 Intermediate (In Progress)  
@@ -101,11 +79,7 @@ I’m a passionate **Full Stack Developer** from **Karachi, Pakistan** with **1+
 - 🌍 Grow as a **Global Full Stack Engineer**
 - 🛒 Scale **BooksSpine** into a premium digital bookstore brand
 
----
-
 # 📬 Connect With Me
 ### 📍 Karachi, Pakistan  
 ### 📧 m.hamzajanzaib@gmail.com  
-### 📱 +92 3711047170  
-
-> ⚡ “Building digital experiences that are scalable, modern, and impactful.”
+### 📱 +92 3711047170
