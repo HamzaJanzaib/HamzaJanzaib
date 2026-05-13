@@ -84,53 +84,6 @@ I’m a passionate **Full Stack Developer** from **Karachi, Pakistan** with **1+
 
 ---
 
-# 🚀 Featured Projects
-
-## 📚 Books Stores Multi-Tenant Ecommerce (Backend Developer)
-**Scalable ecommerce backend for multiple bookstores**
-- Multi-tenant architecture
-- JWT Auth + OTP + Role Management
-- Swagger API Docs
-- Docker Deployment
-- Background Jobs + Logging + Security
-
-**Tech:** Node.js, Express.js, MongoDB, Docker, JWT, Swagger, Zod, Winston
-
----
-
-## 🏠 Real Estate Management App (React Native Developer)
-**Modern property listing mobile app**
-- Zustand State Management
-- Clerk Auth
-- Supabase Integration
-- NativeWind UI
-
-**Tech:** React Native, Expo, TypeScript, Supabase, Clerk
-
----
-
-## 🤖 AI Mock Interview Platform (Full Stack Developer)
-**AI-driven interview prep platform**
-- Google Generative AI
-- Video + Chat Integration
-- Clerk + Arcjet Security
-- Prisma + PostgreSQL
-
-**Tech:** Next.js, TypeScript, Prisma, PostgreSQL, Google AI
-
----
-
-## 🌐 Modern SaaS Landing Page (Frontend Developer)
-**SEO-optimized startup landing page**
-- Next.js Performance
-- Motion Animations
-- Theme Switching
-- Accessibility-first UI
-
-**Tech:** Next.js, Tailwind CSS, Motion
-
----
-
 # 🎓 Education
 
 ## 📘 Intermediate (In Progress)  
