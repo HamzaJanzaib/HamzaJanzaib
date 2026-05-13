@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Hamza Janzaib  
-### 🚀 Full Stack web & Mobile app Developer 
+### 🚀 Full Stack Web & Mobile App Developer  
 #### 🌱 Student at [SMIT](https://www.saylaniwelfare.com/) | Building scalable Web, Mobile & AI-powered applications  
 
 <p align="center">
@@ -25,7 +25,8 @@ I’m a passionate **Full Stack Developer** from **Karachi, Pakistan** with **1+
 - 🧠 Create **AI-powered platforms** (Google Generative AI, LangChain)
 - 🏢 Engineer **Multi-tenant SaaS Systems**
 - ⚙️ Design secure **Backend Architectures & APIs**
-- ☁️ Deploy production-grade apps with **Docker, AWS & DevOps**
+- ☁️ Deploy production-grade apps with **Docker, AWS, Kubernetes & DevOps**
+- 📊 Monitor infrastructure with **Grafana, Prometheus & Logging Tools**
 
 ---
 
@@ -44,22 +45,32 @@ I’m a passionate **Full Stack Developer** from **Karachi, Pakistan** with **1+
 - **JWT Authentication, OTP Systems, Role-Based Access**
 - **Swagger Documentation**
 - **Clerk, Arcjet Security**
+- **Microservices & Scalable SaaS Architecture**
 
 ## 🗄️ Databases & ORMs
 - **MongoDB, PostgreSQL, MySQL, SQLite, Redis**
 - **Prisma ORM, Drizzle ORM, Mongoose**
 
-## ☁️ DevOps & Cloud
-- **Docker, Nginx, Kubernetes**
+## ☁️ DevOps, Cloud & Monitoring
+- **Docker, Nginx, Kubernetes (K8s)**
 - **AWS (EC2, S3, IAM)**
 - **CI/CD Pipelines**
 - **Kafka**
+- **Grafana**
+- **Prometheus**
+- **System Monitoring & Performance Tracking**
+- **Log Management & Infrastructure Optimization**
 
 ## 🧰 Tools & Productivity
 - **Git, GitHub**
 - **Figma, Jira, Notion**
 - **Jest**
 - **LangChain, LangGraph**
+- **Postman**
+- **Swagger**
+- **Linux CLI**
+
+---
 
 # 🎓 Education
 
@@ -74,12 +85,17 @@ I’m a passionate **Full Stack Developer** from **Karachi, Pakistan** with **1+
 ---
 
 # 🌟 Current Goals
-- 🚀 Master advanced **System Design & Scalable Architecture**
+- 🚀 Master advanced **System Design, DevOps & Scalable Architecture**
 - 📱 Build innovative **SaaS + AI products**
 - 🌍 Grow as a **Global Full Stack Engineer**
+- 📊 Deepen expertise in **Cloud Infrastructure, Kubernetes & Monitoring**
 - 🛒 Scale **BooksSpine** into a premium digital bookstore brand
+
+---
 
 # 📬 Connect With Me
 ### 📍 Karachi, Pakistan  
 ### 📧 m.hamzajanzaib@gmail.com  
-### 📱 +92 3711047170
+### 📱 +92 3711047170  
+
+> ⚡ “Building scalable digital products with clean code, modern architecture, and real-world impact.”
